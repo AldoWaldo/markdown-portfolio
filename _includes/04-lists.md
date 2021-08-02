@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Books I've read
+- Everybody Loves Large Chests vol1-6
+- Sapiens / Homo Deus
